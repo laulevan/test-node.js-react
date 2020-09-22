@@ -1,0 +1,16 @@
+{
+  "name": "candidateTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "lodash": "^4.17.20"
+  }
+}
