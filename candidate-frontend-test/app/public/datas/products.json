@@ -1,0 +1,82 @@
+[
+  {
+    "icon": "2-icon.png",
+    "name": "Cleaning"
+  },
+  {
+    "icon": "3-icon.png",
+    "name": "Event Assistant"
+  },
+  {
+    "icon": "4-icon.png",
+    "name": "Office Assistant"
+  },
+  {
+    "icon": "6-icon.png",
+    "name": "Coffee Delivery"
+  },
+  {
+    "icon": "7-icon.png",
+    "name": "Food Delivery"
+  },
+  {
+    "icon": "8-icon.png",
+    "name": "Shopping"
+  },
+  {
+    "icon": "9-icon.png",
+    "name": "Grocery Delivery"
+  },
+  {
+    "icon": "10-icon.png",
+    "name": "Messenger"
+  },
+  {
+    "icon": "12-icon.png",
+    "name": "Bills Payment"
+  },
+  {
+    "icon": "13-icon.png",
+    "name": "Personal Assistant"
+  },
+  {
+    "icon": "14-icon.png",
+    "name": "Assistant on Bike"
+  },
+  {
+    "icon": "15-icon.png",
+    "name": "Queuing Up"
+  },
+  {
+    "icon": "16-icon.png",
+    "name": "Pet Sitting"
+  },
+  {
+    "icon": "17-icon.png",
+    "name": "Flyering"
+  },
+  {
+    "icon": "23-icon.png",
+    "name": "Dish Washing"
+  },
+  {
+    "icon": "24-icon.png",
+    "name": "Cash On Delivery"
+  },
+  {
+    "icon": "25-icon.png",
+    "name": "Massage"
+  },
+  {
+    "icon": "26-icon.png",
+    "name": "Deep Clean"
+  },
+  {
+    "icon": "27-icon.png",
+    "name": "Car Wash and Wax"
+  },
+  {
+    "icon": "28-icon.png",
+    "name": "Manicure & Pedicure"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Home Icon Menu Button - Pressed.svg",
+    "name": "Home",
+    "url": ""
+  },
+  {
+    "icon": "MyJobs Icon Menu Button - Pressed.svg",
+    "name": "My Jobs",
+    "url": ""
+  },
+  {
+    "icon": "MK Support Icon Stroke - Pressed.svg",
+    "name": "Support",
+    "url": ""
+  },
+  {
+    "icon": "Inbox Icon Menu Button - Pressed.svg",
+    "name": "News",
+    "url": ""
+  },
+  {
+    "icon": "Account Icon Menu Button - Pressed.svg",
+    "name": "Account",
+    "url": ""
+  }
+]

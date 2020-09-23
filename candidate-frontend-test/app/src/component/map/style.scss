@@ -1,0 +1,24 @@
+.map {
+  .title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    -webkit-box-orient: vertical;
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: normal;
+  }
+  & .bottom-action {
+    position: fixed;
+    bottom: 15px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    & button {
+      width: 90%;
+      background-color: #0C87FA;
+      text-transform: initial;
+    }
+  }
+}
